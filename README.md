@@ -78,11 +78,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Watch the demo of this project on YouTube:  
 [![YouTube Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
-*Replace `VIDEO_ID` with the actual YouTube video ID.*
+
 
 ### Document Demo
 
 Access the project documentation demo here:  
 [Document Demo Link](https://example.com/document-demo)
 
-*Replace the above URL with the actual document demo link.*
+
